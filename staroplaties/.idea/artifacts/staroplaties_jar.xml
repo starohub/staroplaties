@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="staroplaties:jar">
+    <output-path>$PROJECT_DIR$/pub</output-path>
+    <root id="archive" name="staroplaties.jar">
+      <element id="module-output" name="staroplaties" />
+    </root>
+  </artifact>
+</component>
